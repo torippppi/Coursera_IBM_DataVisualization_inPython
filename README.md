@@ -1,1 +1,1 @@
-This program is the assignment about creating dashboards in "IBM Data Science" course of Coursera.
+I created this program for the dashboard creation assignment in the "IBM Data Science" course on Coursera.
